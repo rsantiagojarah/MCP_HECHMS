@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "hec-hms": {
+      "command": "C:\\Users\\rsant\\Desktop\\ProyectosPy\\MCP_HECHMS\\target\\debug\\mcp-hechms.exe",
+      "env": {
+        "HMS_HOME": "C:\\Program Files\\HEC\\HEC-HMS\\4.14"
+      }
+    }
+  }
+}
